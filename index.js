@@ -1,4 +1,4 @@
-// Iteration 1
+/* // Iteration 1
 const myFavoriteHero = "Hulk";
 const x = 50;
 const h = 5;
@@ -49,3 +49,32 @@ let c = a + b;
 
 //1.5
 c = a * b;
+
+// Iteration 4
+
+//1.1
+const avengers = ["HULK", "SPIDERMAN", "BLACK PANTHER"];
+
+const getHulk = avengers[0];
+
+console.log(getHulk);
+
+//1.2
+avengers[0] = "IRONMAN";
+
+//1.3
+alert( avengers.length );
+
+//1.4
+const rickAndMortyCharacters = ["Rick", "Beth", "Jerry"];
+
+rickAndMortyCharacters.push("Morty", "Summer");
+
+//1.5
+rickAndMortyCharacters.push("Lapiz Lopez");
+rickAndMortyCharacters.pop();
+
+//1.6
+rickAndMortyCharacters.splice(1,1); */
+
+alert(10*5);

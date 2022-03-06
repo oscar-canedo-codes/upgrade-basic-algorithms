@@ -109,3 +109,21 @@ if (number3 * 5 === number1 && number1 * 2 === number2) {
 if (number2 / 2  === number1 || number1 / 5 === number3) {
   console.log("number2 entre 2 es igual a number1 O number1 entre 5 es igual a number3");
 }
+// Iteration 6
+
+//1.1
+for(i = 0; i <= 9; i++) {
+    console.log(i);
+}
+
+//1.2
+for(i = 0; i <= 9; i++) {
+    if( i%2 === 0 ) {
+       console.log(i);
+    }
+}
+
+//1.3
+for(i = 0; i <= 10; i++) {
+    i == 10 ? console.log('Dormido!') : console.log('Intentando dormir');
+}

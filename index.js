@@ -31,4 +31,21 @@ globalBasePrice = 25000;
 car1.finalPrice = globalBasePrice + car1.basePrice;
 car2.finalPrice = globalBasePrice + car2.basePrice;
 
+// Iteration 3
 
+//1.1
+alert(10*5);
+
+//1.2
+alert(10/2);
+
+//1.3
+alert(15%9);
+
+//1.4
+const a = 10;
+const b = 5;
+let c = a + b;
+
+//1.5
+c = a * b;
